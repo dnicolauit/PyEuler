@@ -1,8 +1,8 @@
 """
-Project Euler Problem 1 - Find the sum of all the multiples of 3 or 5 below 1000.
+Project Euler Problem 1 - Multiples of 3 or 5
 
 Answer: 233168
-Elapsed time: 2.0504e-05 
+Elapsed time (seconds): 2.0504e-05 
 
 Solved with Python 3.10.12
 """
