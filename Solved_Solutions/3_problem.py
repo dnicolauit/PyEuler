@@ -5,6 +5,7 @@ Answer: 6857
 Elapsed time (seconds): 0.0153
 
 Solved with Python 3.10.12
+Author: dnicolauit
 """
 
 import time

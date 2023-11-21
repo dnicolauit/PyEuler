@@ -5,6 +5,7 @@ Answer: 233168
 Elapsed time (seconds): 2.0504e-05 
 
 Solved with Python 3.10.12
+Author: dnicolauit
 """ 
 
 
