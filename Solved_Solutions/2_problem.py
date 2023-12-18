@@ -2,7 +2,7 @@
 Project Euler Problem 2 - Even Fibonacci Numbers
 
 Answer: 233168
-Elapsed time (seconds): 4.0054e-05
+Elapsed time (seconds): 3.7193e-05
 
 Solved with Python 3.10.12
 Author: dnicolauit

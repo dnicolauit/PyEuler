@@ -2,7 +2,7 @@
 Project Euler Problem 1 - Multiples of 3 or 5
 
 Answer: 233168
-Elapsed time (seconds): 2.0504e-05 
+Elapsed time (seconds): 1.4544e-05
 
 Solved with Python 3.10.12
 Author: dnicolauit

@@ -2,7 +2,7 @@
 Project Euler Problem 4 - Largest Palindrome Product
 
 Answer: 906609
-Elapsed time (seconds): 0.0385
+Elapsed time (seconds): 0.0361
 
 Solved with Python 3.10.12
 Author: dnicolauit
