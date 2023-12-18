@@ -2,7 +2,7 @@
 Project Euler Problem 4 - Largest Palindrome Product
 
 Answer: 906609
-Elapsed time (seconds): 0.25733
+Elapsed time (seconds): 0.0385
 
 Solved with Python 3.10.12
 Author: dnicolauit
@@ -17,8 +17,9 @@ def max_palindrome_product(max, min):
     max_palindrome = 0
     for i in range(max, min, -1):
         for j in range(max, min, -1):
-            if ispalindrome(i*j) and i*j > max_palindrome:
-                max_palindrome = i*j
+            if i*j > max_palindrome:
+                if ispalindrome(i*j):
+                    max_palindrome = i*j
     return max_palindrome
 
 start_time = time.time()
