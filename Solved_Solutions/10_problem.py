@@ -2,7 +2,7 @@
 Project Euler Problem 10 - Summation of Primes
 
 Answer: 142913828922
-Elapsed time (seconds): 9.1130
+Elapsed time (seconds): 7.5800
 
 Solved with Python 3.10.12
 Author: dnicolauit
